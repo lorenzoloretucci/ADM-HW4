@@ -9,6 +9,6 @@ _____________
 _____________
 #### Repository: 
 * `main.ipynb` : A **Jupyter notebook** explaines choices made throughout the homework.
-
+* `kmeans.py` : Our personal **Kmeans** Algorithm.
 
 
