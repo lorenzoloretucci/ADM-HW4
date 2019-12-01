@@ -5,7 +5,7 @@ _____________
 #### Group 28
 * Diletta Abbonato 
 * Lorenzo Loretucci
-* Anir Azimov 
+* Inar Azimov 
 _____________
 #### Repository: 
 * `main.ipynb` : A **Jupyter notebook** explaines choices made throughout the homework.
