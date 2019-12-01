@@ -12,3 +12,8 @@ _____________
 * `kmeans.py` : Our personal **Kmeans** Algorithm.
 
 
+<p align="left">
+  <img src="inir.jpg" height=430
+</p>
+
+
