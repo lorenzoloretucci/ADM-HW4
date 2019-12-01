@@ -9,7 +9,7 @@ _____________
 * Inar Azimov 
 _____________
 #### Repository: 
-* `main.ipynb` : A *Jupyter notebook* explaines choices you made throughout the homework.
+* `main.ipynb` : A **Jupyter notebook** explaines choices made throughout the homework.
 
 
 
